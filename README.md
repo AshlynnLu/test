@@ -1,3 +1,3 @@
 # test
-Repository for testing my Git/GitHub setup
-A line I wrote on my local computer  
+Hi I'm Ashlynn. 
+I’m a MSc student in Imperial College London.
